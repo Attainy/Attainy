@@ -1,4 +1,4 @@
-## Skills
+## 🌟 Skills
 
 **📌 FrontEnd**
 <div align="left">
@@ -35,12 +35,12 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </div>
 
-## Experience
+## 🌟 Experience
 <div align="center">
   <img width="800" alt="Untitled" src="https://github.com/Attainy/Attainy/assets/111291076/a55b6c4e-f7e8-42db-9270-348c69205241">
 </div>
 
-## Project
+## 🌟 Project
 * Riset
 * SuperMall
 * Netflix Clone Coding
@@ -48,6 +48,6 @@
 * AutoCoding
 * Street Developt Fighter
 
-## Certificate
+## 🌟 Certificate
 * 정보처리기사
 * SQLD
