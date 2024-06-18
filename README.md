@@ -1,6 +1,6 @@
 ## Skills
 
-### FrontEnd
+**📌 FrontEnd**
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
@@ -14,8 +14,9 @@
   <img src="https://img.shields.io/badge/GitLab-181717?style=flat&logo=GitLab&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/>
 </div>
+</br>
 
-### AI & Etc
+**📌 AI & Etc**
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=Pandas&logoColor=white" />
@@ -26,9 +27,27 @@
   <img src="https://img.shields.io/badge/Matplotlib-000000.svg?style=flat&logo=Matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white" />
 </div>
+</br>
 
-### IDE
+**📌 IDE**
 <div align="left">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </div>
+
+## Experience
+<div align="center">
+  <img width="800" alt="Untitled" src="https://github.com/Attainy/Attainy/assets/111291076/a55b6c4e-f7e8-42db-9270-348c69205241">
+</div>
+
+## Project
+* Riset
+* SuperMall
+* Netflix Clone Coding
+* LatexToSpeech
+* AutoCoding
+* Street Developt Fighter
+
+## Certificate
+* 정보처리기사
+* SQLD
