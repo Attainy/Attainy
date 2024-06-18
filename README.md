@@ -34,11 +34,13 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </div>
+</br>
 
 ## 🌟 Experience
 <div align="center">
   <img width="800" alt="Untitled" src="https://github.com/Attainy/Attainy/assets/111291076/a55b6c4e-f7e8-42db-9270-348c69205241">
 </div>
+</br>
 
 ## 🌟 Project
 * Riset
@@ -47,6 +49,7 @@
 * LatexToSpeech
 * AutoCoding
 * Street Developt Fighter
+</br>
 
 ## 🌟 Certificate
 * 정보처리기사
