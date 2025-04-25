@@ -1,3 +1,63 @@
+# 👋 안녕하세요, 프론트엔드 개발자 Attainy입니다
+
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+</div>
+
+## 🚀 소개
+현대적이고 사용자 친화적인 웹 인터페이스 개발을 좋아하는 프론트엔드 개발자입니다. <br />
+접근성과 사용자 경험을 중요시하며, 컴포넌트 기반 설계와 재사용 가능한 UI 시스템 구축에 관심이 많습니다.
+
+## 🛠️ 주요 프로젝트
+
+### [aicody-ui](https://github.com/Attainy/aicody-ui)
+Tailwind CSS 기반의 현대적이고 접근성 높은 React 컴포넌트 라이브러리
+- 📘 [기술 문서](https://attainy.github.io/aicody-ui/)
+- 🎮 [스토리북 데모](https://attainy.github.io/aicody-ui/storybook)
+- 기술 스택: React, TypeScript, Tailwind CSS, Nx (모노레포)
+- 특징: 
+  - 다양한 UI 컴포넌트 (Accordion, Button, Dialog 등) 제공
+  - Tailwind CSS와 tailwind-variants를 사용한 유연한 스타일링
+  - ARIA 속성과 키보드 내비게이션 지원으로 접근성 보장
+
+### [riset_frontend](https://github.com/rise-set-riset/riset_frontend)
+사용자 중심의 출퇴근 관리 시스템
+- [데모 링크](https://fine-apartment-d18.notion.site/Riset-c5f9828ccb86492b970994ac1aca4252)
+- 기술 스택: React, TypeScript, Redux, Styled-components
+- 특징:
+  - 위치 기반의 출퇴근 관리 (Kakao Map, Geolocation)
+  - Framer-motion을 활용한 Drag & Drop 기능
+  - WebSocket과 StompJS를 사용한 실시간 채팅
+  - Fullcalendar를 활용한 일정 관리
+
+## 💻 기술 스택
+
+### 프론트엔드
+- **언어**: JavaScript, TypeScript
+- **프레임워크/라이브러리**: React, Svelte
+- **상태 관리**: Redux, Zustand
+- **스타일링**: Tailwind CSS, Styled-components
+- **테스트**: Jest
+
+  
+### AI
+- **언어**: Python
+- **프레임워크/라이브러리**: TensorFlow, Keras, Pytorch
+- **기타 라이브러리**: Numpy, Sympy, Matplotlib, 
+
+### 기타 도구
+- **버전 관리**: Git, GitHub
+- **빌드 도구**: Vite, Webpack
+- **배포**: Vercel
+- **모노레포**: Nx
+
+
+
 ## 🌟 Skills
 
 **📌 FrontEnd**
@@ -16,40 +76,7 @@
 </div>
 </br>
 
-**📌 AI & Etc**
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=Pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243.svg?style=flat&logo=Numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sympy-3B5526.svg?style=flat&logo=Sympy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-000000.svg?style=flat&logo=Matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white" />
-</div>
-</br>
 
-**📌 IDE**
-<div align="left">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
-</div>
-</br>
-
-## 🌟 Experience
-<div align="center">
-  <img width="800" alt="Untitled" src="https://github.com/Attainy/Attainy/assets/111291076/a55b6c4e-f7e8-42db-9270-348c69205241">
-</div>
-</br>
-
-## 🌟 Project
-* Riset
-* SuperMall
-* Netflix Clone Coding
-* LatexToSpeech
-* AutoCoding
-* Street Developt Fighter
-</br>
 
 ## 🌟 Certificate
 * 정보처리기사
