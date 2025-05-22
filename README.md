@@ -28,7 +28,7 @@ React와 TypeScript 기반의 **TailwindCSS 친화적인 UI 컴포넌트 라이�
 
 ## 🛠️ 주요 프로젝트
 
-### [aicody-ui](https://github.com/Attainy/aicody-ui)
+### [Aicody-UI](https://github.com/Attainy/aicody-ui)
 Tailwind CSS 기반의 현대적이고 접근성 높은 React 컴포넌트 라이브러리
 - 📘 [기술 문서](https://attainy.github.io/aicody-ui/)
 - 🎮 [스토리북 데모](https://attainy.github.io/aicody-ui/storybook)
@@ -37,7 +37,7 @@ Tailwind CSS 기반의 현대적이고 접근성 높은 React 컴포넌트 라�
   - 다양한 UI 컴포넌트 (Accordion, Button, Dialog 등) 제공
   - Tailwind CSS와 tailwind-variants를 사용한 유연한 스타일링
 
-### [riset_frontend](https://github.com/rise-set-riset/riset_frontend)
+### [Riset](https://github.com/rise-set-riset/riset_frontend)
 사용자 중심의 출퇴근 관리 시스템
 - [데모 링크](https://fine-apartment-d18.notion.site/Riset-c5f9828ccb86492b970994ac1aca4252)
 - 기술 스택: React, TypeScript, Redux, Styled-components
